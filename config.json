@@ -1,23 +1,18 @@
 {
-  "username": "johndoe91",
-  "name": "John Doe",
+  "username": "Jerry-Hong",
+  "name": "JerryHong",
   "projects": [
-    "http://github.com/john91doe/profiles",
-    "http://github.com/john91doe/i-learn-css-flexbox",
-    "http://github.com/john91doe/my-webpage"
+    "https://github.com/Jerry-Hong/redux-observable-test-helper",
+    "https://github.com/Jerry-Hong/rx-devtool",
+    "https://github.com/Jerry-Hong/vscode-autofilename",
+    "https://github.com/Jerry-Hong/rx-cycle-fractals"
   ],
   "background":[
-    "A graduate student from NTUT Interaction Design Dept",
-    "Front-end",
-    "Javascript 1 year",
-    "HTML 2 months",
-    "CSS 3 months",
-    "SASS 2 months"
+    "Front-end 3 years"
   ],
   "interests":[
-    "JavaScript (how to build web, desktop and mobile apps)",
-    "Remote Gigs/Jobs (forming a local agency/cooperative (as an app)"
+    "JavaScript"
   ],
-  "twitter": "http://twitter.com/johndoe91",
-  "github": "http://github.com/john91doe"
+  "twitter": "https://twitter.com/_JerryHong",
+  "github": "http://github.com/Jerry-Hong"
 }
